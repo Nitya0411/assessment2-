@@ -1,0 +1,45 @@
+body.dark {
+  background: #111827;
+  color: white;
+}
+
+body.dark .navbar {
+  background: #1f2937;
+}
+
+body.dark .logo,
+body.dark .nav-links a {
+  color: white;
+}
+
+body.dark .hotel-card {
+  background: #1f2937;
+  color: white;
+}
+
+body.dark .filter-sidebar {
+  background: #1f2937;
+  color: white;
+}
+
+body.dark input,
+body.dark select {
+  background: #374151;
+  color: white;
+  border: 1px solid #555;
+}
+
+body.dark .footer {
+  background: #000;
+}
+
+body.dark .details-page {
+  color: white;
+}
+
+body.dark .page-subtitle,
+body.dark .location,
+body.dark .detail-location {
+  color: #ddd;
+}
+
